@@ -1,7 +1,10 @@
-### Hi there 👋
+# Hello, World! 
+I am JP—a second-year Information Technology student in the Philippines. I currently study programming in my own small space at home. If I am not coding or watching videos of tech professionals on YouTube, I am most likely scrolling through social media and GitHub or drinking a hot cup of coffee while playing Valorant with my closest friends.
+
 
 <!--
 **jpzs444/jpzs444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
