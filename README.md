@@ -1,5 +1,5 @@
 # Hello, World! 
-**I am JP**—a second-year Information Technology student in the Philippines. I currently study programming in my own small space at home. If I am not coding or watching videos of tech professionals on YouTube, I am most likely scrolling through social media and GitHub or drinking a hot cup of coffee while playing Valorant with my closest friends.
+**I am JP**—a second-year Information Technology student from the Philippines. I currently study programming in my own small space at home. If I am not coding or watching videos of tech professionals on YouTube, I am most likely scrolling through social media and GitHub or drinking a hot cup of coffee while playing Valorant with my closest friends.
 #
 🌱 I’m currently learning **HTML**.  
 👋 I’m looking to collaborate with **students and developers**.  
