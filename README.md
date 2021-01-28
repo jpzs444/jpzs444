@@ -3,7 +3,7 @@
 #
 🌱 I’m currently learning **HTML**.  
 👋 I’m looking to collaborate with **students and developers**.  
-👦 Pronouns: **He/Him**  
+👦 Pronouns: **he/him**  
 📫 Discord: **jpx#5038**
 # 
 ### Languages and Tools
