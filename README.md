@@ -3,6 +3,7 @@
 #
 🌱 I’m currently learning **Bootstrap**.  
 👋 I’m looking to collaborate with **students and developers**.  
+🤔 I’m looking for help with **creating websites**.
 👦 Pronouns: **he/him**  
 📫 Discord: **jpx#5038**
 # 
