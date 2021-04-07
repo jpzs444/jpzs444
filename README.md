@@ -3,7 +3,7 @@
 #
 🌱 I’m currently learning **JavaScript**.  
 👋 I’m looking to collaborate with **students and experienced developers**.  
-🤔 I’m looking for help with **creating websites**.   
+🤔 I’m looking for help with **creating responsive websites**.   
 👦 Pronouns: **he/him**  
 📫 Discord: **jpx#5038**
 # 
