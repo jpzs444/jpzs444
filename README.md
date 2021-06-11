@@ -3,7 +3,7 @@
 #
 🌱 I’m currently learning **Flexbox**.  
 👋 I’m looking to collaborate with **students and experienced developers**.  
-🤔 I’m looking for help with **creating responsive websites and layouts with CSS Grid and Flexbox**.   
+🤔 I’m looking for help with **creating responsive websites and layouts with CSS Grid**.   
 👦 Pronouns: **he/him**  
 📫 Discord: **jpx#5038**
 # 
