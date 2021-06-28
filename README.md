@@ -1,9 +1,9 @@
 # Hello, World! 
 **I am JP**—a second-year Information Technology student from the Philippines. I currently study programming in my own small space at home. If I am not coding or watching videos of tech professionals on YouTube, I am most likely scrolling through social media and GitHub or drinking a hot cup of coffee while playing Valorant with my closest friends.
 #
-🌱 I’m currently learning **CSS Grid**.  
+🌱 I’m currently learning **JavaScript**.  
 👋 I’m looking to collaborate with **students and experienced developers**.  
-🤔 I’m looking for help with **creating responsive websites and layouts with CSS Grid**.   
+🤔 I’m looking for help with **creating responsive websites and layouts**.   
 👦 Pronouns: **he/him**  
 📫 Discord: **jpx#5038**
 # 
